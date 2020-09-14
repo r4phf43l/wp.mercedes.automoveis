@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="iconMenu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 16 21" style="enable-background:new 0 0 16 21;" xml:space="preserve" class="iconGraphic">
+<style type="text/css">
+	.st0{fill:#00ADEF;}
+</style>
+<g>
+	<path class="st0" d="M0,4h16v2H0V4z M0,8h16v2H0V8z M0,12h16v2H0V12z M0,16h16v2H0V16z"/>
+</g>
+<style>
+	.iconGraphic
+	{
+		cursor:pointer;
+	}
+	.iconGraphic:hover
+	{
+		cursor:hand;
+	}
+</style>
+
+	
+</svg>
